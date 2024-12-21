@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QR_Scanner and genrator</string>
+    <string name="tagline"> welcome to our application </string>
+    <string name="generate">Generate</string>
+</resources>
